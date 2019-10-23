@@ -4,11 +4,15 @@
 
 ## Process Description
 
-In this lab we finally got the chance to print the text we composited last week.
+In this lab we finally got the chance to print the text we composited last week. A lot of the time was spent just waiting and watching, but when it was time to print my poem, Prof. Cordell lifted up the type I composited last week with a paradoxical balance of gentleness and equal force around the edges. He placed it in a wooden frame, filled the empty space with larger spacers, and fastened everything by twisting the fasteners at the sides with a little key/screwdriver to put enough pressure around the sides to keep everything in place.
+
+The press itself was really cool looking. Totally suitable for its purpose, visually. The 
+
+I don't know about the rhythm of the press Prof. Cordell talked about. Maybe my hand-eye coordination was skewed by nervousness or maybe I'm just a small person facing off against a big pedal, but it never got less nerve-wracking to balance
 
 ## Observations
 
-In the next section of each report, you should in **2-3 paragraphs** move from a literal description of what you did in the lab to a more conceptual set of observations. In brief, you want to home in on those aspects of the lab that raised questions or prompted new insights into the textual technology we investigated in the lab activity. What new ideas occurred to you while working? What surprised, delighted, or frustrated you?
+I had class in the Barrs Room during my very first semester as an English major at Northeastern, for a literary theory class with Kathleen Kelly. The door in the corner of the room was always just a silent part of a whole - like the backgrounds of cartoons, drawn with great detail since the animators didn't have to worry about changing them for each frame. But lo and behold! The fabled **Huskiana Press**, tucked into a tiny room with a bricked up fireplace along one wall. It smelled really weird in there - vaguely sulphuric but otherwise indistinguishable.
 
 ## Analysis
 
