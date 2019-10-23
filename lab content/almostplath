@@ -1,0 +1,13 @@
+{
+
+"quality":["upholstered","bathed","sheathed","camouflaged","cast","drenched","clothed","wrapped"],
+"color":["red","blue","green","black","pink","green","yellow","purple","white","ivory"],
+"cloth":["velvet","linen","silk","cotton","wool","cashmere","cloth"],
+"bodypart":["eye","mouth","claw","fang","teeth","foot","brow","lash","nail","tail","head","breast","nose","wings","fangs","tooth"],
+"state":["uncaged","hungry","growling","screeching","watchful","hidden","unseen","peripheral","exotic"],
+"animals":["tigers","lions","bears","birds","monkeys","jaguars","beasts","creatures","leopards","dogs"],
+"adjective":["tropical","quiet","sullen","glittering","glistening","watchful","stoic","vibrant","dull","vivid","foggy","forbidden","hopeful","angry","indifferent","haphazard","aquatic","impending","faraway"],
+"skystuff":["moon","star","planet","asteroid","meteor","cloud","constellation","sunset","sunrise","eclipse","thunderhead","haze","plumage"],
+"origin":["#quality.capitalize# in #color# #cloth#, under the #bodypart# of #state# #animals# and #adjective.a# #skystuff#.."]
+
+}
