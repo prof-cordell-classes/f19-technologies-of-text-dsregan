@@ -16,12 +16,10 @@ Prof. Cordell brought up a great point towards the end of our time at the Mass. 
 
 It's easy to regard the past as something utterly disparate from now. But in fact, many patterns repeat themselves. To me, it's largely a matter of learning to look past the obvious differences that a 300 year old text contains, and read into the deeper implications.
 
+I have a deep appreciation for when common things are intentionally changed to force us into new ways of thinking. This lab scratched my itch. You know how the greatest musicians are classically trained before putting their own spin on things, creating a style completely new and their own? I like that people are doing that with books now. Makes you think? What's next? Will everything just be deconstructed further and further until nothing means anything except in theory?
+
 ## Analysis
 
 Who decides what gets put into an archive? After engaging in the lab activities and being opened up to the perspectives of people who are really passionate about this stuff, I have renewed appreciation for what the readings were saying.
 
 Gleick's "Two Wordbooks" gave a history of the dictionary. Although we take for granted what "words" are "words", it went into depth about the role of the dictionary as prescriptive vs. descriptive, since its hazy inception. The two have always been in tense flux, it seems, though its initial purpose was to standardize spelling for the publishing industry.
-
-I have a deep appreciation for when common things are intentionally changed to force us into new ways of thinking. You know how the greatest musicians are classically trained before putting their own spin on things, creating a style completely new and their own? I like that people are doing that with books now. Makes you think? What's next? Will everything just be deconstructed further and further until nothing means anything except in theory?
-
-The final section of each report should bring your work in the lab into direct, critical conversation with our readings. In **_3-4 paragraphs_**, you should connect your lab observations to ideas from readings assigned _in the given lab unit_. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate the readings explicitly, if possible through direct quotation. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for the class’ Unessay projects. Think of your lab reports as an evolving research paper, and take them as seriously as one.

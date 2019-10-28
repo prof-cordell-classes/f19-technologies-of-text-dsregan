@@ -6,9 +6,11 @@
 
 In this lab we finally got the chance to print the text we composited last week. A lot of the time was spent just waiting and watching, but when it was time to print my poem, Prof. Cordell lifted up the type I composited last week with a paradoxical balance of gentleness and equal force around the edges. He placed it in a wooden frame, filled the empty space with larger spacers, and fastened everything by twisting the fasteners at the sides with a little key/screwdriver to put enough pressure around the sides to keep everything in place.
 
-The press itself was really cool looking. Totally suitable for its purpose, visually. The 
+The press itself was 
 
-I don't know about the rhythm of the press Prof. Cordell talked about. Maybe my hand-eye coordination was skewed by nervousness or maybe I'm just a small person facing off against a big pedal, but it never got less nerve-wracking to balance
+![going in!](https://github.com/prof-cordell-classes/f19-technologies-of-text-dsregan/blob/master/images/IMG_6579.HEIC "going in!")
+
+![inking](https://github.com/prof-cordell-classes/f19-technologies-of-text-dsregan/blob/master/images/IMG_6574.HEIC "inking")
 
 ## Observations
 
